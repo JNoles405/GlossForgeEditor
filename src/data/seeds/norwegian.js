@@ -3,7 +3,7 @@ export const norwegian = {
   id: 'norwegian',
   name: 'Norwegian',
   nativeName: 'Norsk',
-  flag: '🇳🇴',
+  flag: '❄️',
   description: 'The North Germanic language of Norway (~5 million speakers), with two official written standards: Bokmål ("book tongue," used by ~85%) and Nynorsk ("new Norse"). One of the easiest languages for English speakers due to shared Germanic roots. Closely related to Swedish and Danish — the three are largely mutually intelligible.',
   origin: 'Norway / Scandinavia',
   isCustom: false,

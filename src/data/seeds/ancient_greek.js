@@ -8,7 +8,7 @@ export const ancientGreek = {
   id: 'ancient_greek',
   name: 'Ancient Greek',
   nativeName: '\u1f08\u03c1\u03c7\u03b1\u03af\u03b1 \u1f19\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae',
-  flag: '\u1f3fa',
+  flag: '\u{1F3FA}',
   color: '#1a5276',
   origin: 'Classical Greece  -  Attic dialect, c.500-323 BC',
   description: 'The language of Plato, Aristotle, Homer, Sophocles, Herodotus, and Thucydides. Arguably the most influential language in history  -  the source of the New Testament, Byzantine scholarship, scientific and medical terminology, and thousands of English words. Attic Greek, the dialect of Athens, is the standard taught today.',

@@ -6,7 +6,7 @@ export const latin = {
   id: 'latin',
   name: 'Latin',
   nativeName: 'Lingua Latina',
-  flag: '\u1f3db\ufe0f',
+  flag: '\u{1F3DB}\u{FE0F}',
   color: '#8B1A1A',
   origin: 'Ancient Rome  -  Classical period c.75 BC - 200 AD',
   description: 'The language of ancient Rome, now the root of all Romance languages (French, Spanish, Italian, Portuguese, Romanian) and the source of over 60% of English vocabulary. Studied for law, medicine, theology, philosophy, and literature. Classical Latin as written by Caesar, Cicero, and Virgil is a masterpiece of precision and elegance.',

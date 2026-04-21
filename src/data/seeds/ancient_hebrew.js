@@ -8,7 +8,7 @@ export const ancientHebrew = {
   id: 'ancient_hebrew',
   name: 'Ancient Hebrew',
   nativeName: '\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea',
-  flag: '\u2721\ufe0f',
+  flag: '\u{2721}\u{FE0F}',
   color: '#1a472a',
   origin: 'Ancient Canaan and Israel  -  Biblical period c.1200-200 BC',
   description: 'The language of the Hebrew Bible (Old Testament / Tanakh)  -  the Torah, the Psalms, the Prophets, and the Wisdom literature. One of the oldest continuously written languages in the world. The source of the names of God, the vocabulary of Western religion and ethics, and the root of Modern Hebrew. Biblical Hebrew is a Semitic language with a root-based system entirely unlike European languages.',
